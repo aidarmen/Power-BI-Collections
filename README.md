@@ -22,18 +22,10 @@ Each dashboard is designed with **clarity**, **usability**, and **interactivity*
 ### Dashboard 1: Sales Overview
 ![Screenshot](Sales%20Performance%20Analysis/Screenshot.png)
 
+### Dashboard 1: Sales Overview
+![Screenshot](Bank%20Loan%20Insights/bank_loan_data_insights.png)
 
 
----
-
-## 🌐 Live Demo
-
-Visit the deployed dashboards:
-
-- [Sales Dashboard](https://yourserver.com/powerbi-sales.html)
-- [Finance Dashboard](https://yourserver.com/powerbi-finance.html)
-
-> ⚠️ **Note:** Some dashboards may require access permissions or may be publicly available via Power BI’s "Publish to Web" feature.
 
 ---
 
